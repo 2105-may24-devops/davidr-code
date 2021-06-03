@@ -7,6 +7,7 @@ import re
 # PascalCase example FireTruck
 # kebab-case example fire-truck
 
+# this is an edit
 # casing('registeredUser','camelCase','kebab-case') -> registered-user
 def casing(word, initial, target):
     words = []
